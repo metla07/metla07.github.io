@@ -1,0 +1,273 @@
+.conteiner3 {
+    height: 2180px;
+    width: 1366px;
+    margin: 0 auto;
+    min-width: 1366px;
+    max-width: 1366px;
+    background-color: #FCFCFC;
+}
+.boxshadows {
+     box-shadow: 0px 0px 30px 8px #D5DEE3;
+    transform: skewY(0deg);
+    margin-bottom: 30px;
+}
+.header2 {
+    height: 130px;
+    background-color: #FCFCFC;
+}
+.header2 .logo {
+    transition: 1s;
+    margin-left: 98px;
+    margin-top: 67px;
+    float: left;        
+}
+.header2 .logo:hover {
+    transform: scale(1.2)
+}
+.menu2 {
+    float: right;
+    margin-right: 180px;
+    margin-top: 67px;  
+} 
+.menu2 li {
+    float: left;
+    list-style-type: none;
+    height: 48px;
+    width: 120px;
+    text-align: center;
+}
+.menu2 li a:hover {
+    display: block;
+    font-size: 14px;
+    color: #212121;
+    font-weight: 700;
+    height: 100%;
+    width: 100%;
+}
+.menu2 li:hover{
+    border-bottom: 2px solid #000;
+    margin-bottom: -2px;
+}
+.menu2 li a {
+    text-decoration: none;
+    display: block;   
+    height: 48px;
+    width: 120px;
+    line-height: 24px;
+    padding-top: 15px;
+    color: #6c6c6c;
+    font-size: 17.99px;
+    font-weight: 700;
+    text-align: center;
+    transform: scaleY(1.0006);
+}
+.block412 {
+     position: relative;
+     height: 70px;
+     background-color: #F1F1F1;
+     margin-bottom: 10px;
+}
+.menu3 {
+    position: absolute;
+    margin-left: 320px;
+    padding-top: 20px;  
+} 
+.menu3 .all {
+    text-align: right;
+    width: 75px;
+    margin-right: 19px;
+}
+.menu3 li {
+    display: inline-block;
+    list-style-type: none;
+    height: 34px;
+    width: 100px;
+    text-align: right; 
+    margin-right: 10px;
+}
+.menu3 li a:hover {
+    display: block;
+    color: #212121;
+    font-weight: 700;
+    font-size: 18px; 
+    height: 100%;
+    width: 100%; 
+    transform: scale(1.2)
+}
+.menu3 li a {
+    transition: 1s;
+    text-decoration: none;
+    display: block;
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    height: 30px;
+}
+.bodyProduktDeails {
+    position: relative;
+    height: 1590px;
+    background-color: #FCFCFC;
+}
+.stul {
+    position: absolute;
+    height: 570px;
+    width: 570px;
+    margin-left: 98px;
+    margin-top: 72px;
+    background: url(../img/product-slider.jpg)   
+}
+.cena {
+    position: absolute;
+    height: 600px;
+    width: 570px;
+    margin-left: 700px;
+    margin-top: 72px;
+}
+.tovar {
+    position: absolute;
+    height: 650px;
+    width: 1350px;
+    margin-left: -10px;
+    margin-top: 872px;
+}
+.stulchiki {
+    position: absolute;
+    height: 70px;
+    width: 235px;
+    margin-left: 260px;
+    margin-top: 652px;
+    background: url(../img/controll.jpg);
+}
+.stulchiki li {
+    display: block;
+    float: left;
+    height: 70px;
+    width: 70px;
+}
+.stulchiki li a {
+    display: block;
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+    height: 70px;
+    width: 70px;
+}
+.block44 {
+    height: 0px;
+    background-color: #FCFCFC;
+}
+.block44 .block4a {
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 80px;
+}
+.block44 .block4a .png {
+    background-color: #EEECED;
+}
+.block44 ul li {
+    list-style-type: none;
+    display: inline-block;
+    width: 370px;
+    height: 370px;
+    margin-left: 30px;
+}
+.block44 p a {
+    float: right;
+    text-decoration: none;
+    color: #212121;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    margin-top: 107px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    width: 240px; 
+}
+.block44 p a:hover {
+    background: url(../img/arrow.png) no-repeat 170px 6px;
+}
+.block44 span {
+    float: left;
+    color:  #212121;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 100px;
+    letter-spacing: 1px;
+}
+.cena li {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    height: 50px;
+    width: 500px;
+    margin-left: 30px;
+}
+.cena1 {
+    text-align: center;
+    color: #212121;
+    font-size: 35.98px;
+    font-weight: 700;
+    transform: scaleY(1.0005);
+}
+.cena2 {
+    text-align: center;
+    color: #e53935;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 48px;
+    transform: scaleY(1.0005);
+    text-transform: uppercase;
+}
+.cena3 h3 {
+    text-align: center;
+    color: #212121;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 48px;   
+}
+.cena3 h3:hover {
+    color: #212121;
+    font-size: 72px;
+    font-weight: 300;
+    line-height: 48px;
+    text-align: center;
+    transform: scaleY(1.0005);
+}
+.cena .cena5 {
+    margin-top: 60px;
+    color: #212121;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px; 
+    text-align: left;
+    transform: scaleY(1.0005);
+    height: 300px;
+}
+.cena5 p {
+    line-height: 22px;
+}
+.cena .Order1 {
+    margin-top: 40px;
+    outline: none;
+}
+.Order1 a {
+    text-decoration: none;
+    background: red;
+    width: 510px;
+    height: 71px;
+    text-align: center;
+    line-height: 71px;
+    border-radius: 35px;
+    text-transform: uppercase;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    box-shadow: 0px 2px 4.85px 0.15px rgba(33, 33, 33, 0.35)
+}
+.Order1 a:hover {
+     background: red url(../img/arrow1.png) no-repeat 350px 22px;       
+     box-shadow: 0px 2px 4.85px 2.15px rgba(33, 33, 33, 0.35); 
+}

@@ -1,0 +1,36 @@
+
+.history {
+    padding-left: 50px;
+    text-transform: uppercase;
+    transition: 1s;
+}
+.history:hover {
+    transform: scale(1.2)
+}
+   
+   /* align-items: flex-start;
+    */
+
+.conteynier5 {
+    display: flex;
+    justify-content: space-between;
+    padding: 110px 20px 80px 20px;
+}
+.box a {
+    text-decoration: none;
+}
+.box {
+    box-shadow: 12px 20px 10px 2px #E0E7EA;
+    background-color: #F7F7F7;
+    flex-basis: 30%;
+    outline: 1px solid #E1E1E1;
+    padding: 10px;
+    transition: 1s;
+}
+.box:hover {
+    outline: 1px solid #000;
+    transform: scale(1.1)
+}
+.box h3 {
+    text-align: center;
+}
