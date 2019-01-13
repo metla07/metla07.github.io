@@ -7,7 +7,7 @@ body {
     
     font-family: 'Montserrat', sans-serif;
     max-width: 1366px;
-    min-width: 800px;
+    min-width: 1366px;
     margin: 0 auto; 
    
 }
@@ -774,7 +774,7 @@ body {
 .footer .grey a {
     float: left;
     height: 64px;
-    width: 270px;
+    width: 320px;
     text-align: left;
     line-height: 64px;
     display: block; 
@@ -787,7 +787,9 @@ body {
     position: absolute;
     margin-left: 799px;
 }
-
+.Useful {
+   margin-left: -50px;
+}
 .Contact {
     float: left;
     margin-right: 26px;
