@@ -923,6 +923,7 @@ input[type="submit"] {
 }
 input[type="submit"]:hover {
     background: url(../img/strelka1.jpg) no-repeat 50% 50%;
+    cursor: pointer;
 }
 .silka {
     position: absolute;

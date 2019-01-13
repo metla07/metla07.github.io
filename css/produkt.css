@@ -88,8 +88,8 @@
     width: 30px;
 }
 #load:hover {
-    transform: rotate(1250deg) scale(2);
-    -o-transform: rotate(160deg);
+    transform: rotate(-360deg) scale(1.2);
+    -o-transform: rotate(-360deg);
 }
 #load a {
     text-decoration: none;
