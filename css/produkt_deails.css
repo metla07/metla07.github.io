@@ -216,9 +216,11 @@
     transform: scaleY(1.0005);
     text-transform: uppercase;
 }
-.cena3 .big {
+.cena3 {
     text-align: center;
     align-items: center;
+}
+.cena3 .big { 
     color: #212121;
     font-size: 36px;
     font-weight: 300;
