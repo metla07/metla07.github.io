@@ -114,13 +114,6 @@
     margin-top: 72px;
     background: url(../img/product-slider.jpg)   
 }
-.cena {
-    position: absolute;
-    height: 600px;
-    width: 570px;
-    margin-left: 700px;
-    margin-top: 72px;
-}
 .tovar {
     height: 850px;
     width: 1350px;
@@ -193,10 +186,16 @@
     margin-left: 100px;
     letter-spacing: 1px;
 }
+.cena {
+    position: absolute;
+    height: 600px;
+    width: 570px;
+    margin-left: 700px;
+    margin-top: 72px;
+}
 .cena li {
     display: block;
     margin-bottom: 10px;
-    margin-top: 0px;
     height: 50px;
     width: 500px;
     margin-left: 30px;
@@ -217,14 +216,16 @@
     transform: scaleY(1.0005);
     text-transform: uppercase;
 }
-.cena3 h3 {
+.cena3 .big {
     text-align: center;
+    align-items: center;
     color: #212121;
     font-size: 36px;
     font-weight: 300;
     line-height: 48px;   
 }
-.cena3 h3:hover {
+
+.cena3 span {
     color: #212121;
     font-size: 72px;
     font-weight: 300;

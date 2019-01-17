@@ -18,7 +18,7 @@ body {
 .conteiner {
     margin: 0 auto;
     width: 100%;
-    min-width: 800pxpx;
+    min-width: 1366px;
     max-width: 1366px;   
     background-color: #FCFCFC;
     
@@ -28,7 +28,6 @@ body {
     transform: skewY(0);
     position: relative;
     height: 800px;
-    width: 100%;
     min-width: 600px;
     max-width: 1366px;
     background-image:url(../img/slider-img.jpg);
@@ -241,7 +240,7 @@ body {
     padding-top: 2px;
 }
 .krug1:hover {
-    transform: scale(1)
+    transform: scale(1);
     border-radius: 50%;
     background: #212121;
     width: 38px;
@@ -251,7 +250,7 @@ body {
     margin-left: 77px;
 }
 .krug2:hover {
-    transform: scale(1)
+    transform: scale(1);
     border-radius: 50%;
     background: #212121;
     width: 38px;
@@ -260,7 +259,7 @@ body {
     margin-left: 31px;
 }
 .krug3:hover {  
-    transform: scale(1)
+    transform: scale(1);
     border-radius: 50%;
     background: #212121;
     width: 38px;
@@ -424,7 +423,6 @@ body {
 }
 .hover .button {
     background: url(../img/arrow.png) no-repeat 20px;
-    transform: scale(1.)
 }
 .hover .button:hover{
     box-shadow: 3px 3px 10px 1px;
