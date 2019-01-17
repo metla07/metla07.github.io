@@ -6,7 +6,7 @@
     background-color: #FCFCFC;
 }
 .boxshadows {
-     box-shadow: 0px 0px 30px 8px #D5DEE3;
+    box-shadow: 0px 0px 30px 8px #D5DEE3;
     transform: skewY(0deg);
     margin-bottom: 30px;
 }
@@ -61,13 +61,12 @@
     transform: scaleY(1.0006);
 }
 .block412 {
-     position: relative;
      height: 70px;
      background-color: #F1F1F1;
      margin-bottom: 10px;
 }
 .menu3 {
-    position: absolute;
+    float: left;
     margin-left: 320px;
     padding-top: 20px;  
 } 
@@ -103,12 +102,12 @@
     height: 30px;
 }
 .bodyProduktDeails {
-    position: relative;
-    height: 1590px;
+    height: 800px;
+    width: 1366px;
     background-color: #FCFCFC;
 }
 .stul {
-    position: absolute;
+    float: left;
     height: 570px;
     width: 570px;
     margin-left: 98px;
@@ -123,17 +122,15 @@
     margin-top: 72px;
 }
 .tovar {
-    position: absolute;
-    height: 650px;
+    height: 850px;
     width: 1350px;
     margin-left: -10px;
-    margin-top: 872px;
 }
 .stulchiki {
-    position: absolute;
+   float: left;
     height: 70px;
     width: 235px;
-    margin-left: 260px;
+    margin-left: -390px;
     margin-top: 652px;
     background: url(../img/controll.jpg);
 }
@@ -152,13 +149,14 @@
     width: 70px;
 }
 .block44 {
-    height: 0px;
+    margin-top: 100px;
     background-color: #FCFCFC;
 }
 .block44 .block4a {
-    position: absolute;
-    margin-top: 225px;
+    float: left;
+    margin-top: 35px;
     margin-left: 80px;
+    
 }
 .block44 .block4a .png {
     background-color: #EEECED;
